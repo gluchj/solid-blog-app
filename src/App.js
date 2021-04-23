@@ -26,7 +26,7 @@ function App() {
 
   return (
     <BlogState>
-      <Router basename="/blog.site">
+      <Router basename="/blog">
         <Navbar/>
         <div className="App">
           <Header/>
